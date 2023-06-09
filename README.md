@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Code-hokage
+- 👋 Hi, I’m @Code-kage
 - 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on creating something amazing
 - 📫 How to reach me via gmail (adnanmish30@gmail.com)
